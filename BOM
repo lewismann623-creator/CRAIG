@@ -1,0 +1,8 @@
+1 x 12v 30a PSU
+4 x NEMA 17 motors
+8 x 608 ball bearings
+4 x A4988 stepper motor drivers
+1 x Arduino. I used a Nano but it would work with any kind
+Assorted jumper wires
+3d printed parts (files will be added)
+1 x Breadboard. I am planning on making a pcb but for now I am using a breadboard
